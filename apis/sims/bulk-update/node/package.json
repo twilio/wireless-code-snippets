@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Bulk update Twilio Programmable Wireless SIMs in Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twilio",
+    "wireless",
+    "sims",
+    "node.js"
+  ],
+  "author": "Jon Davis",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "lodash": "^4.17.4",
+    "twilio": "^3.10.0"
+  }
+}

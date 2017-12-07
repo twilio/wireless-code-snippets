@@ -1,0 +1,8 @@
+sid,ratePlan,status,callbackMethod,uniqueName,friendlyName,callbackUrl,commandsCallbackMethod,commandsCallbackUrl,smsFallbackMethod,smsFallbackUrl,smsMethod,smsUrl,voiceFallbackMethod,voiceFallbackUrl,voiceMethod,voiceUrl
+PUT SIM SID IN THIS COLUMN,,,,,,,,,,,,,,,,
+ONLY ADD WHAT IS NECESSARY,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Examples,,,,,,,,,,,,,,,,
+DEXXXXXXXXXXXXXXXXXXXXXXXX1,,active,,,,,,,,,,,,,,
+DEXXXXXXXXXXXXXXXXXXXXXXXX2,WPX123,,,,,,,,,,,,,,,
+DEXXXXXXXXXXXXXXXXXXXXXXXX3,,active,,,,,,,,,,,,,,
