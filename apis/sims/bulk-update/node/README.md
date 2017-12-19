@@ -15,7 +15,7 @@ Additional documentation can be found at [Twilio Programmable Wireless REST API:
 1. Insert your [Account Sid](https://support.twilio.com/hc/en-us/articles/223136027-Auth-Tokens-and-how-to-change-them) on line 3
 2. Insert your [Auth Token](https://support.twilio.com/hc/en-us/articles/223136027-Auth-Tokens-and-how-to-change-them) on line 4
 1. Save `app.js`
-1. Open `Twilio Programmable Wirless - SIMs.xlsx` in Google Sheets, Excel, or any other spreadsheet tool
+1. Open `Twilio Programmable Wireless - SIMs.xlsx` in Google Sheets, Excel, or any other spreadsheet tool
 1. Enter one SIM per row
 1. Only enter information in a row that you wish to update
 1. Sim Sids are required
