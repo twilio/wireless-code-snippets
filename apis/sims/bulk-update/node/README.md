@@ -1,6 +1,6 @@
 # Wireless Bulk Update SIMs
 
-This repository provides a Node.JS script and excel sheet to bulk update SIMs on a Twilio account. Note that SIMs cannot be transfered between accounts with this script.
+This repository provides a Node.JS script and excel sheet to bulk update SIMs on a Twilio account. Note that SIMs cannot be transferred between accounts with this script.
 
 Additional documentation can be found at [Twilio Programmable Wireless REST API: SIMs](https://www.twilio.com/docs/api/wireless/rest-api/sim).
 
