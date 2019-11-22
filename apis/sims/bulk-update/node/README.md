@@ -25,5 +25,5 @@ Additional documentation can be found at [Twilio Programmable Wireless REST API:
 1. Type `npm start` in a terminal where the files in this repository are located
 
 ## That's it
-Learn what each column means in the [Programmable Wireless SIM documentation](https://www.twilio.com/docs/api/wireless/rest-api/sim). This snippet is in Node.JS but can be done in any language via [REST APIs](https://www.twilio.com/docs/api/wireless/rest-api) or [Helper Libraries](https://www.twilio.com/docs/api/wireless/sdks).
+Learn what each column means in the [Programmable Wireless SIM documentation](https://www.twilio.com/docs/wireless/api/sim-resource). This snippet is in Node.JS but can be done in any language via [REST APIs](https://www.twilio.com/docs/api/wireless/rest-api) or [Helper Libraries](https://www.twilio.com/docs/api/wireless/sdks).
 
