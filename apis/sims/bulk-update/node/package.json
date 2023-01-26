@@ -18,6 +18,6 @@
   "dependencies": {
     "fast-csv": "^2.4.1",
     "lodash": "^4.17.4",
-    "twilio": "^3.10.0"
+    "twilio": "^4.0.0"
   }
 }
